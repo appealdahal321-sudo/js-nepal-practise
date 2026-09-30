@@ -7,9 +7,9 @@ accountCity = "Pokhara"
 accountEmail = "ad@adgmail.@gmail.com"
 accountPass = "Genduuu"
 accountCity = "Ktm"
-
+let accountDistrict;
 
 console.log(accountId);
-console.table([accountEmail, accountPass, accountCity]);
+console.table([accountEmail, accountPass, accountCity, accountDistrict]);
 
 
