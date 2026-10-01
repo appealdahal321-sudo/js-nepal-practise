@@ -5,7 +5,7 @@ accountCity = "Pokhara"
 
 //accountId = 2
 accountEmail = "ad@adgmail.@gmail.com"
-accountPass = "Genduuu"
+accountPass = "uglo"
 accountCity = "Ktm"
 let accountDistrict;
 
